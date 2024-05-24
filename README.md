@@ -2,7 +2,7 @@
 
 My idea in a nutshell: Pawsome Classifier is a project that uses AI and machine learning to classify images of dogs and cats.
 
-**Summary:**
+## Summary
 Pawsome Classifier is a machine learning-based image classification project that aims to accurately classify images of dogs and cats. The project relies on a dataset of labeled images and utilizes convolutional neural networks (CNNs) to achieve high accuracy. The project has potential applications in pet ownership, veterinary care, and animal shelters.
 
 **Background:**
